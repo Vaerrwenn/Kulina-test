@@ -17,4 +17,4 @@ For example, if you want to run the test solution for question 2, run `go go tes
 There are only 2 solutions that have test file.
 
 ## License
-[MIT](#)
+[MIT](https://github.com/Vaerrwenn/Kulina-test/blob/main/LICENSE)
